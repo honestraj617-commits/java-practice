@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class Reverseword {
+public class Collection {
     public static void main(String[] args) {
         HashSet<String> set = new HashSet<>();
         set.add("Java");
@@ -9,6 +9,8 @@ public class Reverseword {
         set.add("c");
         set.add("c#");
         System.out.println(set); // orders are not maintained
+
+        //I don't know it is gonna worked or not . I just want to check these for training purpose
 
         
         
