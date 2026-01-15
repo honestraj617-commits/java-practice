@@ -7,7 +7,7 @@ public class StudentManagementPrepared {
 
     static String url = "jdbc:mysql://localhost:3306/school";
     static String user = "root";
-    static String password = "HOnest617*";
+    static String password = "Your password";
 
     public static void main(String[] args) {
 
